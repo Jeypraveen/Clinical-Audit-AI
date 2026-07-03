@@ -20,7 +20,7 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 ## Demonstration Video
 
 
-[![Watch the video](https://github.com/Jeypraveen/Cotiviti-Intern-Assessment-JeyPraveenSivaraj/raw/main/Demo.mp4)
+[![Watch the video](https://github.com/Jeypraveen/Cotiviti-Intern-Assessment-JeyPraveenSivaraj/raw/main/Demo.mp4)]
 ---
 
 ## Topic 2 Concepts Implemented
