@@ -23,10 +23,11 @@ Click the button below to watch the full 5-minute demonstration:
 
 <br>
 
-[![View Full Demo Video Here](https://img.shields.io/badge/▶_View_Full_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/▶_View_Full_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Full Demo Video Here">
+</a>
 
 <br>
-
 ---
 
 ## Topic 2 Concepts Implemented
